@@ -1,1 +1,4 @@
 readme first
+Ricardo
+Salvador/BA/Brazil
+META_Professional_Certificate_Backend_Developer
